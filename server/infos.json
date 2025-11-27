@@ -1,1 +1,6 @@
+{
+    "site": "Site factice",
+    "description": "Ce fichier JSON sert uniquement d'exemple.",
+    "attention": "GitHub Pages ne peut pas exécuter de logique serveur."
+}
 
