@@ -1,1 +1,2 @@
+Ce dossier peut contenir des images, des fichiers statiques ou des données factices.
 
